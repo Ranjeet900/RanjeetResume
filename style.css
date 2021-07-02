@@ -1,0 +1,105 @@
+Body{
+  color:orange;
+  text-align:center;
+  font-size:20px;
+}
+#school{
+  text-align:left;
+}
+img{
+  margin-top:none;
+}
+.fancy {
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.school {
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.college {
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.language{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.frame{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+
+.Data{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.tech{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.hobby{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+
+.me{
+  color:purple;
+}
+.kumar{
+  color: rebeccapurple;
+}
+.cam{
+  background-color:#A6E3E9;
+}
+
+.foun{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.dat{
+  margin:0;
+  color:#E84545;
+  text-align:left;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.wom{
+  margin:0;
+  color:#E84545;
+  text-align:center;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+.pyt{
+  color:orange;
+  text-align:center;
+}
+
+.rez{
+  color:#E84545;
+  text-align:center;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
